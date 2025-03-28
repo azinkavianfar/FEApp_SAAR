@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: feapp-analysis
+Version: 0.1.0
+Requires-Dist: streamlit
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: plotly
+Requires-Dist: feat
+Requires-Dist: opencv-python
+Requires-Dist: pillow
+Dynamic: requires-dist
